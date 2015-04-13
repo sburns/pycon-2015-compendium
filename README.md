@@ -2,7 +2,7 @@
 
 Just because I wanted a list of all the talks with links where possible to the videos.
 
-Still a work-in-progress: notably need to add Saturday and Sunday :)
+Still a work-in-progress: notably need to add Sunday :)
 
 ## Friday
 

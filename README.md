@@ -12,10 +12,10 @@ Still a work-in-progress: notably need to add Saturday and Sunday :)
 
 | Speaker | Title (Video link where possible) |
 | ------- | --------------------------------- |
-| Kurt Grandis ([@kgrandis](https://twitter.com/kgrandis)) | [Exploring Minecraft and Python: Learning to Code Through Play](www.youtube.com/watch?v=WsPQDuHt__w)
+| Kurt Grandis | [Exploring Minecraft and Python: Learning to Code Through Play](www.youtube.com/watch?v=WsPQDuHt__w)
 | Kyle Kastner | [Machine Learning 101](www.youtube.com/watch?v=r-1XJBHot58) |
-| lvh ([@lvh](https://twitter.com/lvh)) | [Building secure systems](www.youtube.com/watch?v=PjcTwqYSk-E) |
-| Brett Slatkin ([@haxor](https://twitter.com/haxor)) | [How to Be More Effective with Functions](www.youtube.com/watch?v=WjJUPxKB164) |
+| lvh | [Building secure systems](www.youtube.com/watch?v=PjcTwqYSk-E) |
+| Brett Slatkin | [How to Be More Effective with Functions](www.youtube.com/watch?v=WjJUPxKB164) |
 | Adam Palay | ["Words, words, words": Reading Shakespeare with Python](www.youtube.com/watch?v=EoWG0lavg9U) |
 | Ryan Kelley | [PyPy.js: What? How? Why?](www.youtube.com/watch?v=PiBfOFqDIAI) |
 | Viviane Pons | [Experimental pure mathematics using Sage](www.youtube.com/watch?v=3LZiZKgVjaU) |

@@ -51,3 +51,52 @@ Still a work-in-progress: notably need to add Saturday and Sunday :)
 | Trevor Bekolay | [How to build a brain with Python](www.youtube.com/watch?v=7hvpoLKJHOw) |
 | Josh Triplett | [Porting Python to run without an OS](https://www.youtube.com/watch?v=bYQ_lq5dcvM) |
 | Sarina Canelake | [I18N: World Domination the Easy Way](www.youtube.com/watch?v=UOOMFGURr5I) |
+
+## Saturday
+
+Keynote by Guido Van Rossum
+
+Keynote by Gabriella Coleman
+
+| Speaker | Title (Video link where possible) |
+| ------- | --------------------------------- |
+| Greg Ward | [How to Write Reusable Code](www.youtube.com/watch?v=r9cnHO15YgU) |
+| Julia Evans | [Systems programming as a swiss army knife](www.youtube.com/watch?v=5v6o-VsLAew) |
+| Dan Crosta | [Good Test, Bad Test](www.youtube.com/watch?v=RfR_QRoNZxo) |
+| Amy Hanlon | [Investigating Python Wats](www.youtube.com/watch?v=sH4XF6pKKmk) |
+| Kate Heddleston | [How our engineering environments are killing diversity (and how we can fix it).](https://www.youtube.com/watch?v=kNke_4WOWAU) |
+| Andreas Dewes | [Learning from other's mistakes: Data-driven analysis of Python code](www.youtube.com/watch?v=rN0kNQLDYCI) |
+| Michael Scherer | [Ansible beyond YAML](www.youtube.com/watch?v=igJTEugHozM) |
+| Katie Cunningham | [Usability Testing on the Cheap](www.youtube.com/watch?v=zZx2l3BTCrg) |
+| Philip James, Asheesh Laroia | [Type python, press enter. What happens?](www.youtube.com/watch?v=XVhSjZYwZJo) |
+| Carol Willing | [Finding Your Groove: Contributing to CPython and Beyond](www.youtube.com/watch?v=szeo1XgmuEk) |
+| Nina Zakharenko | [Technical Debt - The code monster in everyone's closet](www.youtube.com/watch?v=JKYktDRoRxw) |
+| Andrew T. Baker | [Demystifying Docker](www.youtube.com/watch?v=GVVtR_hrdKI) |
+| Itamar Turner-Trauring | [A Beginner's Guide to Test-driven Development](www.youtube.com/watch?v=ePaga05gisk) |
+| Ned Batchelder | [Facts and Myths about Python names and values](www.youtube.com/watch?v=_AEJHKGk9ns) |
+| Shauna Gordon-McKeon | [Open Source for Newcomers and the People Who Want to Welcome Them](www.youtube.com/watch?v=8P1oxmkvLB4) |
+| Mali Akmanalp | [Other people's messy data (and how not to hate it!)](www.youtube.com/watch?v=_eQ_8U5kruQ) |
+| Jamaes Cammarata | [Achieving Continuous Delivery: An Automation Story](www.youtube.com/watch?v=7tfTR42iNSs) |
+| Ian Cordasco | [Cutting Off the Internet: Testing Applications that Use Requests](www.youtube.com/watch?v=YHbKxFcDltM) |
+| Allison Kaptur | [Bytes in the Machine: Inside the CPython interpreter](www.youtube.com/watch?v=HVUTjQzESeo) |
+| Glyph | [The Ethical Consequences Of Our Collective Activities](https://www.youtube.com/watch?v=uSbKjRRbjZs) |
+| Christine Spang | [To ORM or not to ORM](www.youtube.com/watch?v=Sadng6tR7Q4) |
+| Dan Tracy | [Ship it: Deployments with Pip](www.youtube.com/watch?v=aD2CfKQB5xM) |
+| Olivier Grisel | [Build and test wheel packages on Linux, OSX & Windows](www.youtube.com/watch?v=d-p6lJJObLU) |
+| Allison Kaptur | [Exploring is never boring: understanding CPython without reading the code](www.youtube.com/watch?v=ZSIRGLmQTLk) |
+| en zyme, Hakim Bouatou, Jon Henner | [Pythons are Deaf, So are Some Pythonistas](https://www.youtube.com/watch?v=-LVlzIOxbAE) |
+| Elizabeth Ramirez | [Graph Database Patterns in Python](www.youtube.com/watch?v=fNAzyZZZ-IQ) |
+| Domen Kožar | [Rethinking packaging, development and deployment](https://www.youtube.com/watch?v=W8A2bOKPtJU) |
+| Daniel Vanderkam | [Make web development awesome with visual diffing tools](https://www.youtube.com/watch?v=jUUTqgzNR3M) |
+| Laura Rupprecht | [Describing Descriptors](https://www.youtube.com/watch?v=h2-WPwGnHqE) |
+| Carina C. Zona | [Schemas for the Real World](https://www.youtube.com/watch?v=PYYfVqtcWQY) |
+| Alex Gaynor | [Techniques for Debugging Hard Problems](https://www.youtube.com/watch?v=ij99SGGEX34) |
+| Matt Makai, Kate Heddleston | [Choose Your Own WSGI Deployment Adventure](Matt Makai, Kate Heddleston - Choose Your Own WSGI Deployment Adventure - PyCon 2015) |
+| A. Jesse Jiryu Davis | [Eventually Correct: Testing Async Apps](https://www.youtube.com/watch?v=GpvCSkxLiZo) |
+| Brandon Rhodes | [Oh, Come On. Who Needs Bytearrays?](https://www.youtube.com/watch?v=z9Hmys8ojno) |
+| Sasha Laundy | [Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) |
+| Clayton Parker | [So you think you can PDB?](https://www.youtube.com/watch?v=P0pIW5tJrRM) |
+| Colton Meyers | [Managing Your Infrastructure with SaltStack](https://www.youtube.com/watch?v=y-zQUqMHRX4) |
+| Nicholas Tollervey | [Lessons learned with asyncio ("Look ma, I wrote a distributed hash table!")](https://www.youtube.com/watch?v=1eew8BngN7Y) |
+| Jim Baker | [A Winning Strategy with The Weakest Link: how to use weak references to make your code more robust](https://www.youtube.com/watch?v=NknSssmLk4w) |
+| Kathleen Danielson | [Avoiding Burnout, and other essentials of Open Source Self-Care](https://www.youtube.com/watch?v=RbeHBnWfXUc) |

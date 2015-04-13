@@ -2,6 +2,8 @@
 
 Just because I wanted a list of all the talks with links where possible to the videos. I originally was going to compile twitter handles too but google is your friend :)
 
+Name typos are not on purpose :)
+
 ## Friday
 
 [Opening Statements](https://www.youtube.com/watch?v=N_H6JpkgM8s) from Julia Evans
@@ -74,7 +76,7 @@ Keynote by Gabriella Coleman
 | Ned Batchelder | [Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns) |
 | Shauna Gordon-McKeon | [Open Source for Newcomers and the People Who Want to Welcome Them](https://www.youtube.com/watch?v=8P1oxmkvLB4) |
 | Mali Akmanalp | [Other people's messy data (and how not to hate it!)](https://www.youtube.com/watch?v=_eQ_8U5kruQ) |
-| Jamaes Cammarata | [Achieving Continuous Delivery: An Automation Story](https://www.youtube.com/watch?v=7tfTR42iNSs) |
+| James Cammarata | [Achieving Continuous Delivery: An Automation Story](https://www.youtube.com/watch?v=7tfTR42iNSs) |
 | Ian Cordasco | [Cutting Off the Internet: Testing Applications that Use Requests](https://www.youtube.com/watch?v=YHbKxFcDltM) |
 | Allison Kaptur | [Bytes in the Machine: Inside the CPython interpreter](https://www.youtube.com/watch?v=HVUTjQzESeo) |
 | Glyph | [The Ethical Consequences Of Our Collective Activities](https://www.youtube.com/watch?v=uSbKjRRbjZs) |

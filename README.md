@@ -1,8 +1,6 @@
 # PyCon 2015 Compendium
 
-Just because I wanted a list of all the talks with links where possible to the videos.
-
-Still a work-in-progress: notably need to add Sunday :)
+Just because I wanted a list of all the talks with links where possible to the videos. I originally was going to compile twitter handles too but google is your friend :)
 
 ## Friday
 
@@ -100,3 +98,34 @@ Keynote by Gabriella Coleman
 | Nicholas Tollervey | [Lessons learned with asyncio ("Look ma, I wrote a distributed hash table!")](https://www.youtube.com/watch?v=1eew8BngN7Y) |
 | Jim Baker | [A Winning Strategy with The Weakest Link: how to use weak references to make your code more robust](https://www.youtube.com/watch?v=NknSssmLk4w) |
 | Kathleen Danielson | [Avoiding Burnout, and other essentials of Open Source Self-Care](https://www.youtube.com/watch?v=RbeHBnWfXUc) |
+
+[Lightning Talks](https://www.youtube.com/watch?v=JVVMMULwR4s)
+
+## Sunday
+
+[Lightning Talks](https://www.youtube.com/watch?v=ZEE3dlo7ov0)
+
+[Morning Keynote](https://www.youtube.com/watch?v=lvlfTZzJ2_Q) by Van Lindberg
+
+[Morning Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) by Jacob Kaplan-Moss
+
+| Speaker | Title (Video link where possible) |
+| ------- | --------------------------------- |
+| Hynek Schlawack | [Beyond grep: Practical Logging and Metrics](https://www.youtube.com/watch?v=gqmAwK0wNyw) |
+| Ying Li | [Where in your RAM is "python san_diego.py"?](https://www.youtube.com/watch?v=tMKXcc2-xO8) |
+| Andrew Montalenti | [streamparse: real-time streams with Python and Apache Storm](https://www.youtube.com/watch?v=ja4Qj9-l6WQ) |
+| Sarah Bird | [Interactive data for the web - Bokeh for web developers](https://www.youtube.com/watch?v=O5OvOLK-xqQ) |
+| Pete Fein | [Free Software, Free People](https://www.youtube.com/watch?v=A3dimvwrnO8) |
+| A. Jesse Jiryu Davis | [Python Performance Profiling: The Guts And The Glory](https://www.youtube.com/watch?v=4uJWWXYHxaM) |
+| Tom Eastman | [Serialization formats are not toys](https://www.youtube.com/watch?v=kjZHjvrAS74) |
+| Mica Swyers, Jay Chan | [Finding Spammers & Scammers through Rate Tracking with Python & Redis](https://www.youtube.com/watch?v=tIBkiXvEAC0) |
+| Christine Spang | [WebSockets from the Wire Up](https://www.youtube.com/watch?v=u5QT3luWx7w) |
+| Thomas Ballinger | [Terminal whispering](https://www.youtube.com/watch?v=WAitSilLDUA) |
+| Geoff Gerrietts | [Performance by the Numbers: analyzing the performance of web applications](https://www.youtube.com/watch?v=UAztOuO1ANQ) |
+| Curtis Lassam | [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) |
+| Mike Howsden | [Zen of Quality - How PBS measures QoS for digital viewers](https://www.youtube.com/watch?v=Q94pNl6jzuk) |
+| Luke Sneeringer | [Improve your development environments with virtualization](https://www.youtube.com/watch?v=Dg_vPMnC7_k) |
+| Jim Baker | [Getting to Jython 2.7 and beyond](https://www.youtube.com/watch?v=hLm3garVQFo) |
+
+[Afternoon Keynote](https://www.youtube.com/watch?v=2wDvzy6Hgxg) by Guido Van Rossum
+Afternoon Keynote by Gary Bernhardt

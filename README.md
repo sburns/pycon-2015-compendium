@@ -91,7 +91,7 @@ Keynote by Gabriella Coleman
 | Laura Rupprecht | [Describing Descriptors](https://www.youtube.com/watch?v=h2-WPwGnHqE) |
 | Carina C. Zona | [Schemas for the Real World](https://www.youtube.com/watch?v=PYYfVqtcWQY) |
 | Alex Gaynor | [Techniques for Debugging Hard Problems](https://www.youtube.com/watch?v=ij99SGGEX34) |
-| Matt Makai, Kate Heddleston | [Choose Your Own WSGI Deployment Adventure](Matt Makai, Kate Heddleston - Choose Your Own WSGI Deployment Adventure - PyCon 2015) |
+| Matt Makai, Kate Heddleston | [Choose Your Own WSGI Deployment Adventure](https://www.youtube.com/watch?v=R-YvQ_YvzA4) |
 | A. Jesse Jiryu Davis | [Eventually Correct: Testing Async Apps](https://www.youtube.com/watch?v=GpvCSkxLiZo) |
 | Brandon Rhodes | [Oh, Come On. Who Needs Bytearrays?](https://www.youtube.com/watch?v=z9Hmys8ojno) |
 | Sasha Laundy | [Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) |
